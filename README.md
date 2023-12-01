@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here is my [blog (Chinese)](http://blog.javazero.top/)
+Here is my [cv (English)](https://cv.javazero.top)
+
+Here is my [blog (Chinese)](https://blog.javazero.top/)
 
 <!--
 **JavaZeroo/JavaZeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
