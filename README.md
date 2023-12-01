@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=600&duration=2000&pause=10&color=467EE6&multiline=true&repeat=false&random=false&width=447&height=100&lines=You+only+live+once%2C;but+if+you+do+it+right;once+is+enough" alt="Typing SVG" /></a>
+
 ### Hi there 👋
 
 Here is my [cv (English)](https://cv.javazero.top)
@@ -5,13 +7,13 @@ Here is my [cv (English)](https://cv.javazero.top)
 Here is my [blog (Chinese)](https://blog.javazero.top/)
 
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavaZeroo&show_icons=true&bg_color=00000000)
 
 ![a](https://github-readme-activity-graph.vercel.app/graph?username=JavaZeroo&theme=react-dark)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yi433rb7wkt66aa3t247bi72cy&unique={true|1|on|yes})
 
-<!--
 **JavaZeroo/JavaZeroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
