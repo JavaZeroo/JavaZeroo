@@ -4,9 +4,6 @@ Here is my [cv (English)](https://cv.javazero.top)
 
 Here is my [blog (Chinese)](https://blog.javazero.top/)
 
-
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavaZeroo)](https://github.com/JavaZeroo/github-readme-stats)
 
 
